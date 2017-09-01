@@ -26,6 +26,10 @@ about:
   home: https://www.gnu.org/software/gperf/
   license: GPL-3
   summary: 'GNU gperf is a perfect hash function generator.'
+  description: |
+  doc_url: https://www.gnu.org/software/gperf/manual/gperf.html
+  dev_url: http://git.savannah.gnu.org/cgit/gperf.git/tree/
+  doc_source_url: http://git.savannah.gnu.org/cgit/gperf.git/tree/doc
 
 extra:
   recipe-maintainers:
